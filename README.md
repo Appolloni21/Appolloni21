@@ -42,6 +42,4 @@ I'm also a motorsport enthusiast and in my free time I like to watch sports, go 
 ![Appolloni21's Stats](https://github-readme-stats.vercel.app/api?username=Appolloni21&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ## 🌐 Contacts
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alessandro-appolloni)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Appolloni21)
